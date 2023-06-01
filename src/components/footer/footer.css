@@ -1,0 +1,69 @@
+.footer {
+  width: 100%;
+  height: 370px;
+  background: #231f1e;
+}
+.footer-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.footer-nav {
+  padding-top: 50px;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.flex a {
+  color: white;
+  margin-bottom: 20px;
+}
+.flex-end {
+  margin-left: 40px;
+}
+.links {
+  color: white;
+  margin-bottom: 20px;
+}
+.flex-one {
+  display: flex;
+}
+
+.inputs {
+  margin-bottom: 20px;
+  width: 354px;
+  height: 40px;
+  background: #ffffff;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}
+.button12{
+  width: 354px;
+height: 40px;
+}
+.icon04 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.footer-nav img {
+      width: 191.14px;
+  height: 74.91px;
+}
+.footer-nav h4 {
+  color: white;
+}
+.sit {
+  color: white;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  margin-top: 50px;
+}
+

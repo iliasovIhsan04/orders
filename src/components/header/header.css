@@ -1,0 +1,19 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-top: 30px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.iconc img{
+    margin-left: 35px;
+}
+.header a{
+  color: white;
+}

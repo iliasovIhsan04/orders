@@ -1,0 +1,70 @@
+.port-text {
+  padding-top: 120px;
+  text-align: center;
+}
+.port-text p {
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #231f1e;
+  line-height: 25px;
+}
+.port-block {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+  width: 1350px;
+  height: 62px;
+  background: #ffffff;
+  border: 1px solid #cbcbcb;
+  border-radius: 3px;
+}
+.port-block img {
+  width: 15px;
+  height: 15px;
+}
+.honda-block {
+  display: flex;
+ margin: 1px 0 0 0;
+}
+.honda-block img {
+  width: 339.9px;
+}
+.restangle111{
+    width: 1350px;
+    height: 8px;
+    margin-top: 30px;
+    width: 1350px;
+    height: 8px;
+    background: #D9D9D9;
+    border-radius: 3px;
+}
+.testimonials{
+    text-align: center;
+    margin-top: 140px;
+}
+.testimonials h4{
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+color: #F47721;
+}
+.testimonials p{
+     font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color: #231F1E;
+}
+.name {
+  background-image: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.name img{
+  padding-top: 50px;
+    width: 350px;
+    height: 300px;
+}

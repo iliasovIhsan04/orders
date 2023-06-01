@@ -1,0 +1,25 @@
+#main{
+    background:url("../../img/Rectangle.svg") no-repeat center /cover;
+    min-height: 100vh;
+}
+.alabel {
+  padding: 240px 0 0;
+  font-size: 20px;
+  color:aliceblue
+ } 
+ .text{
+    width: 695px; 
+    padding: 15px 0 0;
+    color: white;  
+    font-family: Montserrat;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: 0em;
+    text-align: left;
+ }
+.ouis{
+  color: rgb(187, 65, 65);
+}
+
+

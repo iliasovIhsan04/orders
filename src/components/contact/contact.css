@@ -1,0 +1,151 @@
+.contact-block {
+  width: 100%;
+}
+.contact-text {
+  text-align: center;
+  margin-top: 150px;
+}
+.contact-text p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #231f1e;
+}
+
+.phone-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.column img {
+  width: 156px;
+  margin-top: 50px;
+}
+.column h6 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 30px;
+}
+.tel {
+  font-size: 28px;
+  color: black;
+  margin-top: 30px;
+}
+.map-block {
+  margin-top: 60px;
+}
+.map {
+  width: 500px;
+  height: 280px;
+  border-radius: 5px;
+}
+.block3344 {
+  min-height: 100vh;
+  margin-left: 600px;
+  position: relative;
+}
+
+.block3344 img {
+  position: absolute;
+  width: 100%;
+  margin-left: 76px;
+  margin-top: 60px;
+}
+.block33 p {
+  position: absolute;
+}
+
+.amet {
+  margin: 0 auto;
+  position: absolute;
+  z-index: 1;
+  margin-top: -625px;
+  margin-left: 360px;
+}
+.amet h1 {
+  width: 650px;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 40px;
+  text-align: center;
+  color: #f47721;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 22px;
+  margin-left: 115px;
+  gap: 15px;
+}
+.form label {
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 22px;
+  color: #a6a5a5;
+  margin-top: 30px;
+}
+.form input {
+  width: 355px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+  background: transparent;
+}
+.flovers {
+  width: 301.22px;
+  height: 405.79px;
+  position: absolute;
+  margin-left: -100px;
+  margin-top: 100px;
+  transform: rotate(20deg);
+}
+.send {
+  width: 315px;
+  height: 43px;
+  margin-top: 40px;
+  margin-left: 114px;
+  background: #231f1e;
+  border-radius: 5px;
+  border: none;
+  color: aliceblue;
+  position: relative;
+}
+
+.span {
+  position: absolute;
+  z-index: 1;
+  right: 180px;
+  margin-top: -8px;
+}
+
+.send::after {
+  position: absolute;
+  content: "";
+  display: inline-block;
+  background: #f47721;
+  border-radius: 5px;
+  height: 100%;
+  width: 100px;
+  top: 0;
+  right: 0;
+  transition: 2s;
+}
+.send::before {
+  position: absolute;
+  content: url("../iconc/Vector\ 93.svg");
+  z-index: 1;
+  margin-left: 100px;
+  margin-top: -6px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+.send:hover::after {
+  width: 100%;
+}
